@@ -1,0 +1,126 @@
+body{
+    background-color: ghostwhite;
+
+}
+
+#header-img{
+    height: 40px;
+    width: 320px;
+}
+
+
+#nav-bar{
+    float: right;
+    position: relative;
+    right: 20px;
+    top: 5px;
+}
+
+.nav-link{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+#desc{
+    text-align: center;
+}
+
+#email{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 10px;
+    margin-bottom: 2px;
+}
+
+p #submit{
+    color: black;
+    background: rgb(230, 199, 25);
+    padding: 5px 10px;
+    border: 1px solid rgb(230, 199, 25);
+    font-weight:1000;
+    position: relative;
+    left: 45.25%;
+}
+
+#submit:hover{
+    color: black;
+    background: rgb(240, 131, 6);
+    padding: 5px 10px;
+    border: 1px solid rgb(240, 131, 6);
+    font-weight:1000;
+    position: relative;
+    left: 45.25%;
+}
+
+#details{
+    margin: 70px 25%;
+}
+
+.proplab{
+    font-size: 28px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+table{
+    border: solid 1px black;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+}
+th{
+    background-color: gainsboro;
+    height: 30px;
+}
+#det{
+    padding: 40px 20px;
+    width: 200px;
+    height:250px;
+}
+
+#select{
+    color: black;
+    background: rgb(230, 199, 25);
+    padding: 5px 10px;
+    border: 1px solid rgb(230, 199, 25);
+    font-weight:1000;
+}
+
+#select:hover{
+    color: black;
+    background: rgb(240, 131, 6);
+    padding: 5px 10px;
+    border: 1px solid rgb(240, 131, 6);
+    font-weight:1000;
+}
+
+#footer{
+    position: relative;
+    top: 300px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 20px;
+    background-color: gainsboro;
+    overflow: auto;
+}
+
+.foot-link{
+    text-decoration: none;
+    float: right;
+    margin-left: 20px;
+    color: black;
+}
+
+#copyright{
+    float: right;
+    color: black;
+    margin-left: 50%;
+}
+
+#boxs{
+    text-align: center;
+    
+}
